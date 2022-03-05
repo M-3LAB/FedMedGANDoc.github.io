@@ -9,7 +9,9 @@ Welcome to FedMedGANDocs's documentation!
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
-   
+ 
+   Installation/index
+   Toturials/index
    API/index
    about
 
