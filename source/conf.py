@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'FedMedGANDocs'
+project = 'Fed-Med-GAN Docs'
 copyright = '2022, M3LAB'
 author = 'M3LAB'
 
