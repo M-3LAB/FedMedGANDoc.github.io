@@ -1,3 +1,9 @@
 {
-    "restructuredtext.confPath": "${workspaceFolder}/source"
+    "restructuredtext.confPath": "${workspaceFolder}/source",
+    "code-runner.runInTerminal": true,
+    "python.pythonPath": "/home/liujiaqi/anaconda3/bin/python",
+    "restructuredtext.builtDocumentationPath": "/disk4/ljq/FedMedGANDocs/build/",
+    "code-runner.executorMap": {
+        "python": "python3 -u",
+    }
 }
