@@ -11,7 +11,7 @@ Welcome to FedMedGANDocs' documentation!
    :caption: Contents:
  
    Installation/index
-   Toturials/index
+   Tutorials/index
    API/index
    about
 
