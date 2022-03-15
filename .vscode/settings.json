@@ -5,5 +5,8 @@
     "restructuredtext.builtDocumentationPath": "/disk4/ljq/FedMedGANDocs/build/",
     "code-runner.executorMap": {
         "python": "python3 -u",
-    }
+    },
+    "esbonio.sphinx.confDir": "/disk4/ljq/FedMedGANDocs/source",
+    "esbonio.server.enabled": true,
+    "esbonio.sphinx.buildDir": "/disk4/ljq/FedMedGANDocs/build/"
 }
